@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Enzo — DevOps Engineer
+# 👋 Hi, I'm Enzo - DevOps Engineer
 
 Welcome to my GitHub!  
 I'm a DevOps Engineer passionate about automation, scalability, and building reliable systems. My daily work revolves around **cloud platforms**, **infrastructure as code**, and **continuous delivery**.
